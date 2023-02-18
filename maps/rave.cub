@@ -1,6 +1,6 @@
-WE ./textures/12.xpm
-EA ./textures/11.xpm
-NO ./textures/13.xpm
+WE ./textures/13.xpm
+EA ./textures/13.xpm
+NO ./textures/14.xpm
 SO ./textures/14.xpm
 
 C 0,0,0
