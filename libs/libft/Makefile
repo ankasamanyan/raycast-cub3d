@@ -3,15 +3,15 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: akasaman <akasaman@student.42.fr>          +#+  +:+       +#+         #
+#    By: akasamanian <akasamanian@student.42.fr>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/11/22 13:53:09 by jkaczmar          #+#    #+#              #
-#    Updated: 2023/01/17 18:14:59 by akasaman         ###   ########.fr        #
+#    Updated: 2024/05/28 18:01:25 by akasamanian      ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libft.a
-CFLAGS = -Wall -Wextra -Werror -g
+CFLAGS = 
 CC = gcc
 GNL	= ./srcs/get_next_line/
 SRCS = 			./srcs/ft_memmove.c \

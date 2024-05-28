@@ -1,5 +1,5 @@
 CC 		= gcc
-CFLAGS	=	-Wall -Wextra -Werror -g
+CFLAGS	=	
 NAME	=	cub3d
 LIBFT	=	./libs/libft/
 SRCS	=	./srcs/main.c \
